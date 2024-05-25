@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_camera"
+        android:icon="@mipmap/ic_camera"
+        android:title="@string/take_selfie"
+        app:showAsAction="always"/>
+
+</menu>

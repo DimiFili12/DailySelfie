@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+
+    <string name="take_selfie">Take a selfie!</string>
+    <string name="delete_all">Delete all selfies</string>
+
+    <string name="album_name">DailySelfieSample</string>
+</resources>
